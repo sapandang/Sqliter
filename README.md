@@ -1,5 +1,8 @@
 # Sqliter
-A single class java sqlite wrapper. Sqliter makes easy to work with sqlite database by wrapping the queries into hasmap.
+A single class java sqlite wrapper. Sqliter makes easy to work with sqlite database by wrapping the queries into hashmap.
+
+## Android version
+> https://github.com/sapandang/Android-Sqliter
 
 ## Getting started	
 ### Dependecy
